@@ -99,7 +99,14 @@ The interactive Power BI report is published live on the web and can be accessed
 🔗 **Live Dashboard:**  
 https://app.powerbi.com/view?r=eyJrIjoiOTYyODJhNjEtZTRmMi00MGE4LWFiZGQtNjI3YWY5NzI1NzZjIiwidCI6ImU1OWJiZTkxLTdkZjctNGRkNS05Y2IwLWJjZTgyYWI3MmU0YSJ9
 
+---
 
+## 🚀 Deployment & Live Access
+
+- The report is published to **Power BI Service**
+- A **live web version** is enabled using *Publish to Web*
+- On-Premises Data Gateway configured for MySQL
+- Scheduled refresh enabled for automated updates
 
 ---
 
