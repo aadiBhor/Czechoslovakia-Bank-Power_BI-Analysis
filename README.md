@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing banking data for Czechoslovakia Bank to understand customer behavior, financial performance, loan portfolio, and growth opportunities.  
-The analysis was performed using **Power BI**, **SQL**, and **DAX**, and the final insights are presented through interactive dashboards.
+The analysis was performed using **Power BI**, **SQL**,**EXCEL* and **DAX**, and the final insights are presented through interactive dashboards.
 
 ---
 
@@ -35,7 +35,7 @@ The project uses multiple relational tables:
 - SQL (MySQL)
 - DAX (Time Intelligence – YoY, MoM)
 - Power Query (Data Cleaning)
-- GitHub
+- excel
 
 ---
 
@@ -89,6 +89,17 @@ The project uses multiple relational tables:
 - Predictive modeling for loan default risk
 - Customer churn analysis
 - Integration with real-time data sources
+
+---
+
+## 🌐 Live Power BI Report (Web)
+
+The interactive Power BI report is published live on the web and can be accessed using the link below:
+
+🔗 **Live Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiOTYyODJhNjEtZTRmMi00MGE4LWFiZGQtNjI3YWY5NzI1NzZjIiwidCI6ImU1OWJiZTkxLTdkZjctNGRkNS05Y2IwLWJjZTgyYWI3MmU0YSJ9
+
+
 
 ---
 
